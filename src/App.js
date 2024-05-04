@@ -1,7 +1,7 @@
 import React from 'react';
 import './App.css';
 import Header from './component/Header.js';
-import AboutMe from './component/AboutMe.js';
+import AboutMe from './component/aboutme/AboutMe.js';
 import ContactForm from './component/ContactForm.js';
 import Footer from './component/Footer.js';
 import ScrollToTop from './component/ScrollToTop.js';

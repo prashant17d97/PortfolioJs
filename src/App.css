@@ -325,17 +325,6 @@ a:hover{
   border: 2px solid rgb(255, 255, 255);
 }
 
-.about_me{
-  margin: 0 auto;
-  width: 60%;
-  text-align: center;
-}
-.about_me h1{
-  font-size: 2.5em;
-}
-.about_me p{
-  font-size: 1.2em;
-}
 
 #detail_paragraph{
   text-align: center;
